@@ -7,8 +7,8 @@
 
 ## Screenshots
 
-![App Screenshot](https://github.com/Aranshu/HTML-Dell-Store/blob/master/Image/Banner.png?raw=true)
+![App Screenshot](https://github.com/Aranshu/HTML-Calculator/blob/master/Image/Banner.png?raw=true)
 
 ## Try it yourself
 
-click [here](https://aranshu.github.io/HTML-Dell-Store/)
+click [here](https://aranshu.github.io/HTML-Calculator/)
